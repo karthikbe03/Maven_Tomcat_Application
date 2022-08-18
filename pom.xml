@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Simple_Maven_Tomcat</finalName>
+    <finalName>Maven_Tomcat_Application</finalName>
   </build>
 </project>
